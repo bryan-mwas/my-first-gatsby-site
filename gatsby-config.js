@@ -19,4 +19,5 @@ module.exports = {
     "gatsby-plugin-mdx",
     "gatsby-transformer-sharp",
   ],
+  pathPrefix: "/my-first-gatsby-site"
 };
